@@ -1,0 +1,21 @@
+# Ignores automáticos do `react-create-app`
+# dependencies
+node_modules
+
+# testing
+coverage
+
+# production
+build
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+
+
+# Meus =P
+# backups de texto
+*~
+*.swp
+
