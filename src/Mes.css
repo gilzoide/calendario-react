@@ -1,0 +1,9 @@
+/* Highlight no mês atual */
+.EsseMes {
+	color: black;
+	background: lightgreen;
+}
+.OutroMes {
+	background: lightblue;
+	color: black;
+}
